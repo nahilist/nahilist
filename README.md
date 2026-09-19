@@ -6,8 +6,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/nahilist)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshux64)
 [![Resume](https://img.shields.io/badge/Resume-View-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1yGZ26o7WLiyysw6PWk2mlbnqs5TQLeUf/view?usp=drivesdk)
-[![Profile Views](https://img.shields.io/badge/Profile%20Views-70+-blue?style=for-the-badge&logo=github)]
-![Followers](https://img.shields.io/github/followers/nahilist?label=Followers&style=flat-square&color=7C3AED)
 
 ---
 
@@ -62,9 +60,7 @@ I enjoy working at the intersection of **Machine Learning and Frontend Technolog
 />
 
 </div>
----
 
-## 🕹️ Contribution Graph
 ---
 
 ## 🕹️ Contribution Graph
@@ -90,6 +86,21 @@ I enjoy working at the intersection of **Machine Learning and Frontend Technolog
 
 ---
 
+## 📈 Profile Stats
+<br>
+
+<div align="center">
+
+![Profile Views](https://img.shields.io/badge/Profile%20Views-70+-blue?style=for-the-badge&logo=github)
+<br><br>
+![Followers](https://img.shields.io/github/followers/nahilist?label=Followers&style=for-the-badge&color=7C3AED&logo=github)
+
+</div>
+
+<br>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -99,6 +110,8 @@ I enjoy working at the intersection of **Machine Learning and Frontend Technolog
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@himanshux64)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/himanshux64)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nahilist)
+
+<br>
 
 ### 💡 Learning continuously. Building thoughtfully. Creating intelligent software.
 
