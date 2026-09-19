@@ -91,14 +91,14 @@ I enjoy working at the intersection of **Machine Learning and Frontend Technolog
 
 <div align="center">
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-70+-blue?style=for-the-badge&logo=github)
+<!-- 70 अभी का है + इसमें अपना पुराना 6 साल वाला टोटल व्यू जोड़ सकते हैं (जैसे 70 + पुराना डेटा) -->
+<img src="https://komarev.com/ghpvc/?username=nahilist&color=blue&style=for-the-badge&label=PROFILE+VIEWS&initial_value=70" alt="Profile Views" />
+
 <br><br>
+
 ![Followers](https://img.shields.io/github/followers/nahilist?label=Followers&style=for-the-badge&color=7C3AED&logo=github)
 
 </div>
-
-<br>
-
 ---
 
 ## 🤝 Let's Connect
