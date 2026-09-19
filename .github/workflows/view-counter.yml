@@ -1,0 +1,30 @@
+name: Update Profile Views
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-count:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update views.json
+        run: |
+          CURRENT_COUNT=$(jq '.count' views.json)
+          NEW_COUNT=$((CURRENT_COUNT + 1))
+          
+          jq --argjson new_val "$NEW_COUNT" '.count = $new_val' views.json > tmp.json && mv tmp.json views.json
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: increment profile view count [skip ci]"
+          file_pattern: "views.json"
+          branch: main
