@@ -15,8 +15,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Update views.json
+      - name: Check and Update views.json
         run: |
+          # अगर फाइल मौजूद नहीं है, तो अपने आप एक नई views.json बना दे ताकि एरर न आए
+          if [ ! -f "views.json" ]; then
+            echo '{"count": 70}' > views.json
+          fi
+
           CURRENT_COUNT=$(jq '.count' views.json)
           NEW_COUNT=$((CURRENT_COUNT + 1))
           
