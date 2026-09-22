@@ -23,7 +23,6 @@ I enjoy working at the intersection of **Machine Learning and Frontend Technolog
 > “Learning is never cumulative; it is a movement of knowing which has no beginning and no end.” — Jiddu Krishnamurti
 
 ---
-
 ## 🧭 What I'm Focused On
 
 | Area | Current Exploration |
