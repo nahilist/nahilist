@@ -10,7 +10,6 @@
 
 ---
 
-
 ## 👋 About Me
 
 I'm a **4th-year Artificial Intelligence & Machine Learning student** focused on turning AI concepts into useful, end-to-end products.
