@@ -1,6 +1,4 @@
 <h1>Hi, I'm Himanshu Kumar 👋</h1>
-<h3>AI & ML Student • Frontend Developer</h3>
-
 
 ### Building ML Models and Modern Frontend Web Technologies
 
@@ -23,17 +21,6 @@ I enjoy working at the intersection of **Machine Learning and Frontend Technolog
 
 > “Learning is never cumulative; it is a movement of knowing which has no beginning and no end.” — Jiddu Krishnamurti
 
----
-## 🧭 What I'm Focused On
-
-| Area | Current Exploration |
-|:--|:--|
-| 🤖 **AI Agents** | Tool use, orchestration, memory, and multi-step workflows |
-| 🧠 **LLM Engineering** | Prompt design, structured outputs, chaining, evaluation, and reliable AI workflows |
-| 🌐 **AI Web Apps** | Integrating intelligent features into Django, MERN, FastAPI, and Streamlit apps |
-| 👁️ **Deep Learning** | CNNs, RNNs, LSTMs, Transformers, NLP, and Computer Vision |
-
----
 
 ## 🚀 Featured Projects
 
