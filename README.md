@@ -34,8 +34,6 @@ I enjoy working at the intersection of **Machine Learning and Frontend Technolog
 
 </div>
 
-
-
 ## 📊 GitHub Snapshot
 
 <div align="center">
