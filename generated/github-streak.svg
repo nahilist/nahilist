@@ -34,7 +34,7 @@ fill="#f78166"
 font-family="Arial"
 font-size="34"
 font-weight="700">
-1293
+1294
 </text>
 
 <text
@@ -68,7 +68,7 @@ fill="#f78166"
 font-family="Arial"
 font-size="34"
 font-weight="700">
-85
+86
 </text>
 
 <text
@@ -89,7 +89,7 @@ text-anchor="middle"
 fill="#8b949e"
 font-family="Arial"
 font-size="11">
-Aug 11, 2026 - Nov 3, 2026
+Aug 11, 2026 - Nov 4, 2026
 </text>
 
 <!-- LONGEST -->
@@ -102,7 +102,7 @@ fill="#f78166"
 font-family="Arial"
 font-size="34"
 font-weight="700">
-85
+86
 </text>
 
 <text
@@ -123,7 +123,7 @@ text-anchor="middle"
 fill="#8b949e"
 font-family="Arial"
 font-size="11">
-Aug 11, 2026 - Nov 3, 2026
+Aug 11, 2026 - Nov 4, 2026
 </text>
 
 </svg>
