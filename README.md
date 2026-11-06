@@ -6,7 +6,6 @@
 [![Resume](https://img.shields.io/badge/Resume-View-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1yGZ26o7WLiyysw6PWk2mlbnqs5TQLeUf/view?usp=drivesdk)
 --
 ## 👋 About Me
-
 I'm a **4th-year Artificial Intelligence & Machine Learning student** focused on turning AI concepts into useful, end-to-end products.
 
 I enjoy working at the intersection of **Machine Learning and Frontend Technologies**.
