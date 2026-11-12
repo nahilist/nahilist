@@ -18,7 +18,6 @@ I enjoy working at the intersection of **Machine Learning and Frontend Technolog
 > “Learning is never cumulative; it is a movement of knowing which has no beginning and no end.” — Jiddu Krishnamurti
 
 ## 🚀 Featured Projects
-
 | Project | What It Does | Built With | Status |
 |:--|:--|:--|:--:|
 | 🔢 **Handwritten Digit Classifier** | Uses a convolutional neural network to classify handwritten digits from the MNIST dataset | Python, TensorFlow, Keras | ✅ Built |
