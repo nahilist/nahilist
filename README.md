@@ -1,5 +1,4 @@
 <h1>Hi, I'm Himanshu Kumar 👋</h1>
-
 ### Building ML Models and Modern Frontend Web Technologi
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/nahilist)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshux64)
