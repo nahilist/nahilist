@@ -1,5 +1,6 @@
 <h1>Hi, I'm Himanshu Kumar 👋</h1>
-### Building ML Models and Modern Frontend Web Technologi
+
+### Building ML Models and Modern Frontend Web Technology
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/nahilist)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshux64)
 [![Resume](https://img.shields.io/badge/Resume-View-EA4335?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1yGZ26o7WLiyysw6PWk2mlbnqs5TQLeUf/view?usp=drivesdk)
