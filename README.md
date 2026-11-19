@@ -7,7 +7,6 @@
 -
 ## 👋 About Me
 I'm a **4th-year Artificial Intelligence & Machine Learning student** focused on turning AI concepts into useful, end-to-end products.
-
 I enjoy working at the intersection of **Machine Learning and Frontend Technologies**.
 
 - ✍️ Sharing AI and ML learnings on **[Medium](https://medium.com/@himanshux64)**
