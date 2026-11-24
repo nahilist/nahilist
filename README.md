@@ -57,7 +57,6 @@ I enjoy working at the intersection of **Machine Learning and Frontend Technolog
     src="https://raw.githubusercontent.com/nahilist/nahilist/output/pacman-contribution-graph.svg"
   >
 </picture>
-
 </div>
 
 
